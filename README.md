@@ -1,2 +1,3 @@
 # datasciencecoursera
-For assesement
+For assessment
+Hi team, Happy to join you
